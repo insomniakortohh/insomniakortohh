@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![banner](https://raw.githubusercontent.com/insomniakortohh/image/d7c857b36f425aa01bacdec2fa03a5122888ccb2/korrothhdev.png)
+![banner](https://github.com/insomniakortohh/image/blob/f6601a67edcb6fc16401363a8cc72fe74021a9ab/ChatGPT%20Image%2016%20mar%202026%2C%2000_48_34.png)
